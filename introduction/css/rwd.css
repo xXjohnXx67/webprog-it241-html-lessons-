@@ -61,13 +61,15 @@ body {
 }
  
 .content > p {
+  font-size: 15px;
   margin-bottom: 7px;
 }
  
 .facts {
   grid-area: facts;
   border: 1px solid maroon;
-  background-color: beige;
+  background-color: white;
+  text-align: center;
   padding: 10px;
 }
  
