@@ -1,0 +1,8 @@
+      body { background-color: #4b0505; }
+      .profile-img { max-width: 100%; border-radius: 6px; }
+      
+      .card-plain { background: #ffffff; padding: 12px; border-radius: 8px; box-shadow: 0 1px 4px rgba(0,0,0,0.06); }
+      .muted { color: #6c757d; }
+
+    
+      .flatbox { background: #ffffff; border: 1px solid #e9ecef; border-radius: 6px; box-shadow: none; padding: 20px; }
