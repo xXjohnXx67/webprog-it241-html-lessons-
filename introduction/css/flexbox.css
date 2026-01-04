@@ -30,9 +30,10 @@ h1 {
 h2 {
   margin-top: 0;
   color: #b11226;
-  .center-title {
-  text-align: center;
 }
+
+.center-title {
+  text-align: center;
 }
 
 p {
@@ -51,5 +52,4 @@ p {
   max-width: 180px;
   height: auto;
   border: 3px solid #8b0000;
-}
 }
