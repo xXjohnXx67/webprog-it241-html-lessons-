@@ -30,6 +30,9 @@ h1 {
 h2 {
   margin-top: 0;
   color: #b11226;
+  .center-title {
+  text-align: center;
+}
 }
 
 p {
